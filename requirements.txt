@@ -1,0 +1,10 @@
+torch
+torchvision
+albumentations
+numpy
+pillow
+pyyaml
+tqdm
+tensorboard
+matplotlib
+pytest
