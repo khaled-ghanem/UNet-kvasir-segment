@@ -7,3 +7,4 @@ runs/
 checkpoints/
 .ipynb_checkpoints/
 .claude/
+outputs/
